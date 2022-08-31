@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is my another comit!
+=======
+This is again a comit!
+>>>>>>> feature
 
 and here we go with commit #2!
